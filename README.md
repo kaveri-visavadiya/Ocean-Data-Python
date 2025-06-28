@@ -1,2 +1,3 @@
 # Ocean-Data-Python
-Assignments done as part of course 'EH612 - Ocean and Global Change' at IIT Gandhinagar.
+This repository contains Jupyter notebooks containing Ocean data analysis as part of course 'Ocean and Global Change'.
+
