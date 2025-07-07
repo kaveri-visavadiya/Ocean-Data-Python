@@ -1,3 +1,2 @@
 # Ocean-Data-Python
-This repository contains Jupyter notebooks containing Ocean data analysis as part of course 'Ocean and Global Change'.
-
+This repository contains Jupyter notebooks that were assigned as part of course 'Ocean and Global Change'. They largely involve exploratory ocean data analysis and visualisation in Python.
